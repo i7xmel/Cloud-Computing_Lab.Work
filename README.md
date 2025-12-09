@@ -2,7 +2,8 @@
 
 This repository contains practical implementations of core cloud computing concepts across major cloud platforms including AWS and Google Cloud Platform (GCP). The programs cover Infrastructure as a Service (IaaS), load balancing, auto-scaling, identity management, and cloud-based AI services.
 
-## Programs Overview
+
+## Programs Overview 
 
 ### Program 1: Infrastructure as a Service (IaaS) Implementation on AWS
 - **Explored IaaS fundamentals**: Virtualized computing resources, scalability, and pay-as-you-go models
