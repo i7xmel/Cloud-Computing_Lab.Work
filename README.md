@@ -54,7 +54,6 @@ This repository contains practical implementations of core cloud computing conce
 **Screenshot**
 
 <img width="578" height="659" alt="image" src="https://github.com/user-attachments/assets/f4ce024a-b65f-48b1-9f95-514de25b6eb6" />
-<img width="536" height="371" alt="image" src="https://github.com/user-attachments/assets/2dafb645-1720-4038-9ad4-52bdf66b4895" />
 <img width="542" height="610" alt="image" src="https://github.com/user-attachments/assets/233274d3-1c0e-49a4-8906-ea6f0e8e9138" />
 <img width="591" height="320" alt="image" src="https://github.com/user-attachments/assets/ee27ec57-ac60-4f7e-b278-3a536ed6fa7e" />
 
