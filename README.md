@@ -45,7 +45,7 @@ This repository contains practical implementations of core cloud computing conce
 ### Program 3: Auto Scaling Implementation in Cloud Environment
 - **Auto Scaling Concepts**: Understanding automatic resource adjustment based on demand
 - **Cost Efficiency Implementation**: Configured scaling policies to optimize resource usage
-- **Auto Scaling Group Creation**: Set up "2348534AutoShop" auto-scaling group
+- **Auto Scaling Group Creation**
 - **Instance Type Selection**: Used t2.micro instances for cost-effective scaling
 - **Metric-based Scaling**: Implemented performance-based resource adjustment
 - **Availability Enhancement**: Configured automatic instance replacement for fault tolerance
